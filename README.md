@@ -20,4 +20,4 @@
 
 # Author
 
-Kordula Pfeiffer. Agricultural and Food Economist.
+Kordula Pfeiffer. Agricultural and Food Economist. [https://de.linkedin.com/in/kordulapfeiffer](https://de.linkedin.com/in/kordulapfeiffer)
