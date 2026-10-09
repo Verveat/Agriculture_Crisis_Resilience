@@ -20,8 +20,6 @@
 
 ## Data Sources
 
-## Data Sources
-
 The project uses publicly available official German agricultural statistics. The data sources are organized according to the three analytical dimensions of the project.
 
 ### 1. Availability and Supply Balance
