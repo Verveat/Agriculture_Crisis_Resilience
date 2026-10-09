@@ -33,5 +33,6 @@
 
 # Author
 
-Kordula Pfeiffer. Agricultural and Food Economist. [LinkedIn.](https://de.linkedin.com/in/kordulapfeiffer)
+Kordula Pfeiffer. Agricultural and Food Economist. [LinkedIn.](https://www.linkedin.com/in/kordulapfeiffer/)
+
 
