@@ -20,13 +20,15 @@
 
 ## Progress
 
-* [x] Project Concept
-* [x] Data Collection
-* [ ] Data Exploration
-* [ ] Data Cleaning and Preparation
-* [ ] Data Analysis
-* [ ] Data Visualisation
-* [ ] Final Report and Insights
+## Progress
+
+* 🟢 Project Concept
+* 🟡 Data Collection
+* 🟡 Data Exploration
+* ⚪ Data Cleaning and Preparation
+* ⚪ Data Analysis
+* ⚪ Data Visualisation
+* ⚪ Final Report and Insights
 
 
 # Author
