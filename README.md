@@ -26,13 +26,13 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 **BMEL – Official Agricultural Statistics**
 
-[Cereal Supply Balance](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide)
-[Potato Supply Balance](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/kartoffeln)
+*[Cereal Supply Balance](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide)*
+*[Potato Supply Balance](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/kartoffeln)*
 
 **BLE – Open Data**
 
-[Cereal Supply Balance](https://open-data.ble.de/dataset/versorgungsbilanz-getreide)
-[Potato Supply Balance](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
+*[Cereal Supply Balance](https://open-data.ble.de/dataset/versorgungsbilanz-getreide)*
+*[Potato Supply Balance](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)*
 
 
 ## Risk Categories and Transmission Mechanisms
