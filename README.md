@@ -20,6 +20,8 @@
 
 ## Crisis and Shock Overview
 
+<h3><img src="https://img.shields.io/badge/Market_Shocks-Overview-2F6FEB?style=flat-square" alt="Market Shocks Overview"></h3>
+
 | Period         | Event / Shock                                           | Main Transmission Channels                  |
 | -------------- | ------------------------------------------------------- | ------------------------------------------- |
 | 2002–2003      | Drought and heat in Europe                              | Crop yields and agricultural supply         |
@@ -38,6 +40,7 @@
 *Note: This preliminary overview identifies selected shocks and potential transmission channels. Their effects on German wheat, barley and potato markets will be examined empirically.*
 
 **Selected institutional references:** [OECD – Agricultural Risk and Resilience](https://doi.org/10.1787/2250453e-en) · [FAO – Agricultural Commodity Markets](https://www.fao.org/publications/fao-flagship-publications/the-state-of-agricultural-commodity-markets/) · [European Commission – Fertiliser Markets](https://agriculture.ec.europa.eu/common-agricultural-policy/agri-food-supply-chain/ensuring-availability-and-affordability-fertilisers_en) · [Destatis – Agriculture Statistics](https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Agriculture-Forestry-Fisheries/_node.html)
+
 
 
 ## Progress
