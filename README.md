@@ -36,9 +36,11 @@ This dimension uses publicly available official statistics on cereal and potato 
 
 [*Potato Supply Balance*](https://open-data.ble.de/dataset/versorgungsbilanz-kartoffeln)
 
-**Methodological basis:** The analysis is based on the methodology and data sources underlying the BMEL’s agricultural commodity balances (*Versorgungsbilanzen*).
+**Methodological references**
 
-Source: [BMEL – Grundlagen der Versorgungsbilanzen](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/grundlagen)
+**Agricultural commodity balances:** [BMEL – Grundlagen der Versorgungsbilanzen](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/grundlagen)
+
+**Foreign trade product classification:** [Destatis – Warenverzeichnis für die Außenhandelsstatistik](https://www.destatis.de/DE/Methoden/Klassifikationen/Aussenhandel/warenverzeichnis-aussenhandel.html)
 
 
 ## Risk Categories and Transmission Mechanisms
