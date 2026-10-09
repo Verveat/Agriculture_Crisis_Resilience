@@ -57,12 +57,14 @@ There is no single universally applicable classification of all crises affecting
 ## Progress
 
 * 🟢 Project Concept
-* 🟡 Data Collection
+* 🟢 Data Collection
 * 🟡 Data Exploration
-* ⚪ Data Cleaning and Preparation
-* ⚪ Data Analysis
-* ⚪ Data Visualisation
-* ⚪ Final Report and Insights
+* 🔴 Data Cleaning and Preparation
+* 🔴 Data Analysis
+* 🔴 Data Visualisation
+* 🔴 Final Report and Insights
+
+**Legend:** 🟢 Completed / Established · 🟡 In Progress · 🔴 Not Started
 
 
 # Author
