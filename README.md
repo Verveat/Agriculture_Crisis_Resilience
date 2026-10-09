@@ -64,7 +64,7 @@ There is no single universally applicable classification of all crises affecting
 * 🔴 Data Visualisation
 * 🔴 Final Report and Insights
 
-**Legend:** 🟢 Completed / Established · 🟡 In Progress · 🔴 Not Started
+**Legend:** 🟢 Completed · 🟡 In Progress · 🔴 Not Started
 
 
 # Author
