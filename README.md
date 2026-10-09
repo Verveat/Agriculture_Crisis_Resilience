@@ -18,6 +18,25 @@
 **Approach.**<br> Data collection and preparation, exploratory analysis, and visualisation of market and price dynamics, as well as international trade dependencies, to investigate shock magnitude, response timing, shock duration, and recovery patterns.
 
 
+## Crisis and Shock Overview
+
+| Event / Shock                                 | Period         | Shock Origin                           | Main Transmission Channels                                 |
+| --------------------------------------------- | -------------- | -------------------------------------- | ---------------------------------------------------------- |
+| Drought and heat in Europe                    | 2002–2003      | Climate and weather                    | Crop yields, production and supply                         |
+| Global food price crisis                      | 2007–2008      | Agricultural commodity markets         | Commodity prices, trade and price volatility               |
+| Russian drought and grain export restrictions | 2010–2011      | Climate shock and trade policy         | Export availability, international grain supply and prices |
+| Drought and heat in Europe                    | 2018–2019      | Climate and weather                    | Crop yields, production and supply                         |
+| COVID-19 pandemic                             | From 2020      | Public health shock                    | Labour availability, logistics and changes in demand       |
+| Global supply chain disruptions               | 2021–2022      | Logistics and trade disruptions        | Transport costs, delivery delays and input availability    |
+| Energy price shocks                           | 2021–2023      | Energy markets                         | Production, storage and processing costs                   |
+| Fertiliser price shocks                       | 2021–2023      | Agricultural input markets             | Input costs and farm production decisions                  |
+| Russian invasion of Ukraine                   | From 2022      | War and geopolitical shock             | Grain trade, energy and fertiliser markets                 |
+| Inflationary pressures                        | 2022–2024      | Macroeconomic conditions               | Input costs, purchasing power and price transmission       |
+| Red Sea shipping disruptions                  | From late 2023 | Geopolitical and logistics disruptions | Shipping routes, freight costs and delivery times          |
+
+*Note: This preliminary overview is based on a synthesis of agricultural risk frameworks and institutional market analyses. The identified transmission channels represent potential mechanisms rather than empirically established effects on German wheat, barley and potato markets.*
+
+
 ## Progress
 
 * 🟢 Project Concept
