@@ -3,7 +3,7 @@
 
 # Agricultural Market Resilience in Germany
 
-*A Comparative Analysis of Wheat, Barley and Potato Markets*
+*A Comparative Analysis of Soft Wheat, Barley and Potato Markets*
 
 # Project Overview
 
