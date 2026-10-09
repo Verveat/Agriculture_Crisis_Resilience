@@ -16,3 +16,8 @@
 3. Adjustment and Recovery. How do supply balances and prices evolve during and after crises, and how quickly do they return toward pre-crisis conditions?
 
 **Approach.**<br> Data collection and preparation, exploratory analysis, and visualisation of market and price dynamics, as well as international trade dependencies, to investigate shock magnitude, response timing, shock duration, and recovery patterns.
+
+
+# Author
+
+Kordula Pfeiffer. Agricultural and Food Economist.
