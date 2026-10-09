@@ -20,12 +20,17 @@
 
 ## Data Sources
 
-This project uses publicly available official German agricultural statistics.
+## Data Sources
+
+The project uses publicly available official German agricultural statistics. The data sources are organized according to the three analytical dimensions of the project.
+
+### 1. Availability and Supply Balance
+
+To investigate changes in domestic cereal supply, utilization and trade balances, the following sources are used:
 
 * **BMEL – Cereal Supply Balances:** [Official statistics and documentation](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide)
 * **BLE Open Data – Cereal Supply Balance:** [Dataset](https://open-data.ble.de/dataset/versorgungsbilanz-getreide)
 * **BLE – Cereal Supply Balance (Excel):** [Download Excel file](https://open-data.ble.de/dataset/fe1db479-7ace-43e3-9fac-a7aaa58b1263/resource/10396efa-0af4-46b8-a08b-ad3b09326a2e/download/vb-getreide.xlsx)
-
 
 
 ## Risk Categories and Transmission Mechanisms
