@@ -18,29 +18,23 @@
 **Approach.**<br> Data collection and preparation, exploratory analysis, and visualisation of market and price dynamics, as well as international trade dependencies, to investigate shock magnitude, response timing, shock duration, and recovery patterns.
 
 
-## Crisis and Shock Overview
+## Risk Categories and Transmission Mechanisms
 
-<h3><img src="https://img.shields.io/badge/Market_Shocks-Overview-2F6FEB?style=flat-square" alt="Market Shocks Overview"></h3>
+There is no single universally applicable classification of all crises affecting agricultural markets. This overview draws on established institutional frameworks, particularly the OECD's agricultural risk management framework and the FAO's work on agricultural supply chains. The categories below provide a structured synthesis rather than a verbatim reproduction of one official taxonomy.
 
-| Period         | Event / Shock                                           | Main Transmission Channels                  |
-| -------------- | ------------------------------------------------------- | ------------------------------------------- |
-| 2002–2003      | Drought and heat in Europe                              | Crop yields and agricultural supply         |
-| 2007–2008      | Global food price crisis                                | Commodity prices and market volatility      |
-| 2010–2011      | Russian drought and grain export restrictions           | Grain availability and international prices |
-| 2018–2019      | Drought and heat in Europe                              | Crop yields and production                  |
-| 2020–2022      | COVID-19 pandemic                                       | Labour, logistics and demand                |
-| 2021–2023      | Energy and fertiliser price shocks                      | Production and input costs                  |
-| From 2022      | Russian invasion of Ukraine                             | Grain trade, energy and fertiliser markets  |
-| 2022–2024      | Inflation and food price pressures                      | Production costs and price transmission     |
-| From late 2023 | Red Sea shipping disruptions                            | Freight costs and delivery times            |
-| 2025           | German harvest and agricultural market developments     | Production, supply and producer prices      |
-| From 2026      | Iran and wider Middle East conflict                     | Energy, fertiliser and shipping costs       |
-| 2026           | Weather-related risks to German agricultural production | Crop yields and domestic supply             |
+| **Risk Category**                   | **Examples of Risk Drivers**                                          | **Potential Transmission Mechanisms**                                     |
+| ----------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Production Risks**                | Droughts, heatwaves, floods, pests and diseases                       | Crop yields, production volumes and domestic supply                       |
+| **Market and Price Risks**          | Commodity price volatility, changes in supply and demand              | Producer prices, market revenues and price volatility                     |
+| **Input Cost Risks**                | Energy, fertiliser, fuel and other input price increases              | Production costs, input use and production decisions                      |
+| **Trade and Supply Chain Risks**    | Export restrictions, transport disruptions and logistical bottlenecks | Import availability, trade flows, delivery times and transport costs      |
+| **Financial Risks**                 | Interest rate changes, credit constraints and liquidity shortages     | Financing costs, investment and farm liquidity                            |
+| **Policy and Institutional Risks**  | Changes in agricultural, trade or environmental policies              | Market incentives, trade conditions and production decisions              |
+| **Geopolitical and Systemic Risks** | Armed conflicts, pandemics and international economic disruptions     | Energy and input markets, labour availability, trade and aggregate demand |
 
-*Note: This preliminary overview identifies selected shocks and potential transmission channels. Their effects on German wheat, barley and potato markets will be examined empirically.*
+**Conceptual sources:** [OECD – *Strengthening Agricultural Resilience in the Face of Multiple Risks* (2020)](https://doi.org/10.1787/2250453e-en) · [FAO – *Guidelines to Increase the Resilience of Agricultural Supply Chains*](https://www.fao.org/markets-and-trade/areas-of-work/emerging-trends-challenges-and-opportunities/guidelines-to-increase-the-resilience-of-agricultural-supply-chains/)
 
-**Selected institutional references:** [OECD – Agricultural Risk and Resilience](https://doi.org/10.1787/2250453e-en) · [FAO – Agricultural Commodity Markets](https://www.fao.org/publications/fao-flagship-publications/the-state-of-agricultural-commodity-markets/) · [European Commission – Fertiliser Markets](https://agriculture.ec.europa.eu/common-agricultural-policy/agri-food-supply-chain/ensuring-availability-and-affordability-fertilisers_en) · [Destatis – Agriculture Statistics](https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Agriculture-Forestry-Fisheries/_node.html)
-
+*Note: The categories are analytical and may overlap. The transmission mechanisms describe potential pathways through which risks can affect agricultural markets; their relevance and empirical effects on German wheat, barley and potato markets will be investigated in this project.*
 
 
 ## Progress
