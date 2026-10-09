@@ -43,20 +43,6 @@ There is no single universally applicable classification of all crises affecting
 * *Eurostat and Destatis – Agricultural Statistics: Data for analysing agricultural production, prices and international trade in the EU and Germany. [Eurostat](https://ec.europa.eu/eurostat/web/agriculture/database) · [Destatis](https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Agriculture-Forestry-Fisheries/_node.html)*
 
 
-
-### *Selected Institutional Sources
-
-The following sources serve complementary purposes, including conceptual risk classification, analysis of transmission mechanisms, documentation of market disruptions and empirical analysis.
-
-* **OECD – Agricultural Risk and Resilience:** Conceptual background on agricultural risks and resilience. [Read the report](https://doi.org/10.1787/2250453e-en)
-* **FAO – Agricultural Supply Chain Resilience:** Background on how natural hazards, conflicts, pandemics and other shocks can affect agricultural supply chains. [Read the guidelines](https://doi.org/10.4060/cc5481en)
-* **FAO – Agricultural Commodity Markets:** Analysis of developments in agricultural commodity markets and their implications. [Explore FAO publications](https://www.fao.org/publications/fao-flagship-publications/the-state-of-agricultural-commodity-markets/)
-* **European Commission – Fertiliser Markets:** Information on fertiliser prices, trade, availability and input-cost developments. [Explore the market observatory](https://agriculture.ec.europa.eu/data-and-analysis/markets/overviews/market-observatories/fertilisers_en)
-* **UNCTAD – Maritime Trade Disruptions:** Evidence on shipping disruptions, freight costs and delays in international trade. [Read the Review of Maritime Transport 2024](https://unctad.org/system/files/official-document/rmt2024_en.pdf)
-* **Eurostat and Destatis – Agricultural Statistics:** Data for analysing agricultural production, prices and international trade in the EU and Germany. [Eurostat](https://ec.europa.eu/eurostat/web/agriculture/database) · [Destatis](https://www.destatis.de/EN/Themes/Economic-Sectors-Enterprises/Agriculture-Forestry-Fisheries/_node.html)*
-
-
-
 ## Progress
 
 * 🟢 Project Concept
