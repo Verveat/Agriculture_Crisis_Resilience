@@ -20,8 +20,6 @@
 
 ## Progress
 
-## Progress
-
 * 🟢 Project Concept
 * 🟡 Data Collection
 * 🟡 Data Exploration
