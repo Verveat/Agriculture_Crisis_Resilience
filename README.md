@@ -18,22 +18,15 @@
 **Approach.**<br> Data collection and preparation, exploratory analysis, and visualisation of market and price dynamics, as well as international trade dependencies, to investigate shock magnitude, response timing, shock duration, and recovery patterns.
 
 
-# Progress
-Progress
+## Progress
 
-Project Concept
-
-Data Collection
-
-Data Exploration
-
-Data Cleaning and Preparation
-
-Data Analysis
-
-Data Visualisation
-
-Final Report and Insights
+* [x] Project Concept
+* [x] Data Collection
+* [ ] Data Exploration
+* [ ] Data Cleaning and Preparation
+* [ ] Data Analysis
+* [ ] Data Visualisation
+* [ ] Final Report and Insights
 
 
 # Author
