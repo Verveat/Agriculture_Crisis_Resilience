@@ -18,6 +18,16 @@
 **Approach.**<br> Data collection and preparation, exploratory analysis, and visualisation of market and price dynamics, as well as international trade dependencies, to investigate shock magnitude, response timing, shock duration, and recovery patterns.
 
 
+## Data Sources
+
+This project uses publicly available official German agricultural statistics.
+
+* **BMEL – Cereal Supply Balances:** [Official statistics and documentation](https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/getreide)
+* **BLE Open Data – Cereal Supply Balance:** [Dataset](https://open-data.ble.de/dataset/versorgungsbilanz-getreide)
+* **BLE – Cereal Supply Balance (Excel):** [Download Excel file](https://open-data.ble.de/dataset/fe1db479-7ace-43e3-9fac-a7aaa58b1263/resource/10396efa-0af4-46b8-a08b-ad3b09326a2e/download/vb-getreide.xlsx)
+
+
+
 ## Risk Categories and Transmission Mechanisms
 
 There is no single universally applicable classification of all crises affecting agricultural markets. This overview draws on established institutional frameworks, particularly the OECD's agricultural risk management framework and the FAO's work on agricultural supply chains. The categories below provide a structured synthesis rather than a verbatim reproduction of one official taxonomy.
